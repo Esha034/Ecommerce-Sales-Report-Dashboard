@@ -28,10 +28,10 @@ Revenue leakage, misallocation of marketing resources, and limited insight into 
 
 ## 5. Skills
 
-Tool: Power BI
-Techniques: Data Modeling, DAX, Data Cleaning, Data Visualization
-Functions Used: CALCULATE, SUM, AVERAGE, RELATED
-Other Skills: Business Analysis, Dashboard Design, Storytelling with Data
+### Tool: Power BI
+### Techniques: Data Modeling, DAX, Data Cleaning, Data Visualization
+### Functions Used: CALCULATE, SUM, AVERAGE, RELATED
+### Other Skills: Business Analysis, Dashboard Design, Storytelling with Data
 
 ## 6. Results and Business Recommendations
 

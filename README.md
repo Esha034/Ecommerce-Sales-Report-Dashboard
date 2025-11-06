@@ -1,9 +1,6 @@
-1. Title
-
-Ecommerce Sales Report Dashboard - Power BI
+1. Title: Ecommerce Sales Report Dashboard - Power BI
 
 2. Executive Summary
-
 The Ecommerce Sales Report Dashboard provides an end-to-end view of sales, profit, quantity, and customer behavior derived from two datasets namely Details and Orders. The organization lacked visibility into sales performance, profit distribution, and payment preferences across states and product categories. A Power BI dashboard was developed to consolidate and visualize key sales insights for informed decision-making.
 Impact:
 -Enhanced profit trend monitoring.
@@ -11,8 +8,7 @@ Impact:
 -Improved understanding of payment behavior.
 
 
-3. Business Problem
-
+4. Business Problem
 The company faced challenges in understanding which states, customers, and products contributed most to profitability.
 -Disconnected sales data limited forecasting accuracy.
 -Lack of transparency into payment patterns led to liquidity risks.

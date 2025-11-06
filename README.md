@@ -8,7 +8,7 @@ Impact:
 -Improved understanding of payment behavior.
 
 
-4. Business Problem
+## 3. Business Problem
 The company faced challenges in understanding which states, customers, and products contributed most to profitability.
 -Disconnected sales data limited forecasting accuracy.
 -Lack of transparency into payment patterns led to liquidity risks.
@@ -17,7 +17,7 @@ The company faced challenges in understanding which states, customers, and produ
 Impact:
 Revenue leakage, misallocation of marketing resources, and limited insight into underperforming areas.
 
-4. Methodology
+## 4. Methodology
 
    4.1.Imported Details and Orders datasets into Power BI.
    4.2.Cleaned and transformed data using Power Query.
@@ -26,14 +26,14 @@ Revenue leakage, misallocation of marketing resources, and limited insight into 
    4.5 Designed an interactive dashboard with slicers and dynamic visuals.
    4.6 Implemented color-coded visuals for trend clarity and insight presentation.
 
-5. Skills
+## 5. Skills
 
 Tool: Power BI
 Techniques: Data Modeling, DAX, Data Cleaning, Data Visualization
 Functions Used: CALCULATE, SUM, AVERAGE, RELATED
 Other Skills: Business Analysis, Dashboard Design, Storytelling with Data
 
-6. Results and Business Recommendations
+## 6. Results and Business Recommendations
 
 Key Results:
 -Maharashtra and Madhya Pradesh emerged as top-performing states.
